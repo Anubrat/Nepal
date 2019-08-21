@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a750222a-8010-43e2-8d87-17d547ad4cb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ami.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/indexx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo-social.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo-social.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo-social.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo-social.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/entypo.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ipad-optimised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone-optimised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/laptop-screen-optimised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/large-screen-optimised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/ami.scss" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PifxoZXA4Rrw3a2I9xRrpYlfYO" />
+  <component name="PropertiesComponent">
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a750222a-8010-43e2-8d87-17d547ad4cb0" name="Default Changelist" comment="" />
+      <created>1566362098322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566362098322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
